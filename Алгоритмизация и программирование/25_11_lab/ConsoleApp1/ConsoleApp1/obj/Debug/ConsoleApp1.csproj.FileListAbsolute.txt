@@ -1,0 +1,7 @@
+C:\OmGTU\Алгоритмизация и программирование\25_11_lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\OmGTU\Алгоритмизация и программирование\25_11_lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\OmGTU\Алгоритмизация и программирование\25_11_lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\OmGTU\Алгоритмизация и программирование\25_11_lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\OmGTU\Алгоритмизация и программирование\25_11_lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\OmGTU\Алгоритмизация и программирование\25_11_lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\OmGTU\Алгоритмизация и программирование\25_11_lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
