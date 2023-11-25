@@ -59,7 +59,7 @@ namespace ConsoleApp1
             Console.WriteLine("Вот все библиотеки которые подошли под ваши запросы: \n");
             foreach (Bibiliotek p in vsiainfa)
             {
-                if (otborr == p.raion) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
+                Otbor_Raion(p);
             }
 
             Console.WriteLine("отбор по колву поситити");
@@ -68,7 +68,7 @@ namespace ConsoleApp1
             Console.WriteLine("Вот все библиотеки которые подошли под ваши запросы: \n");
             foreach (Bibiliotek p in vsiainfa)
             {
-                if (otborp < p.posititili) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
+                Otbor_Pos(p)
             }
 
             Console.WriteLine("отбор по колву книги");
@@ -77,7 +77,7 @@ namespace ConsoleApp1
             Console.WriteLine("Вот все библиотеки которые подошли под ваши запросы: \n");
             foreach (Bibiliotek p in vsiainfa)
             {
-                if (otbork > p.kniggi) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
+                Otbor_Knig(p);
             }
 
             Console.WriteLine("отбор по ФИО");
@@ -86,10 +86,27 @@ namespace ConsoleApp1
             Console.WriteLine("Вот все библиотеки которые подошли под ваши запросы: \n");
             foreach (Bibiliotek p in vsiainfa)
             {
-                if (otborFIO == p.FIO) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
+                Otbor_FIO(p);
             }
 
             Console.ReadKey();
+        }
+        public Otbor_Raion(Bibiliotek)
+        {
+            if (otborr == p.raion) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
+        }
+        public Otbor_Pos(Bibiliotek)
+        {
+            if (otborp < p.posititili) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
+        }
+        public Otbor_Knig(Bibiliotek)
+        {
+            if (otbork > p.kniggi) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
+
+        }
+        public Otbor_FIO(Bibiliotek)
+        {
+            if (otborFIO == p.FIO) { Console.WriteLine("Адрес\t" + p.adres + "\nКол-во книг\t" + p.kniggi + "\nКол-во посетитеое\t" + p.posititili + "\nФИО главы\t" + p.FIO + "\nрайон\t" + p.raion + '\n'); }
         }
 
     }
