@@ -1,0 +1,14 @@
+C:\Users\e3253\OneDrive\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\e3253\OneDrive\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\e3253\OneDrive\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\e3253\OneDrive\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\e3253\OneDrive\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\e3253\OneDrive\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\e3253\OneDrive\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\OmGTU\Алгоритмизация и программирование\2 семестр\март\номера телефонов, Хэштабл\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\OmGTU\Алгоритмизация и программирование\2 семестр\март\номера телефонов, Хэштабл\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\OmGTU\Алгоритмизация и программирование\2 семестр\март\номера телефонов, Хэштабл\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\OmGTU\Алгоритмизация и программирование\2 семестр\март\номера телефонов, Хэштабл\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\OmGTU\Алгоритмизация и программирование\2 семестр\март\номера телефонов, Хэштабл\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\OmGTU\Алгоритмизация и программирование\2 семестр\март\номера телефонов, Хэштабл\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\OmGTU\Алгоритмизация и программирование\2 семестр\март\номера телефонов, Хэштабл\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
